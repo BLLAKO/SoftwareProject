@@ -37,7 +37,7 @@ Our Camping Site will include the following features to meet the users needs:
 
     2.Registration and Authentication System:
 
-    Users will be able to register a new account by providing their email, username, password, and optional profile picture.
+    Users will be able to register a new account by providing their email, username, password, and also optional profile picture.
     Users will be able to authenticate themselves by logging in with their email and password, or with their social media account (e.g., Facebook, Google).
     The system will enforce password complexity rules and prevent brute-force attacks by limiting the number of login attempts.
     The system will send a confirmation email to newly registered users to verify their email address and activate their account.
