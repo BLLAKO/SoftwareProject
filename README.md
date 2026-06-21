@@ -1,4 +1,4 @@
-# CEN302 - Software Engineering #
+# Software Engineering #
 # Project Title:  *Camp AL*
 
 # Identifying Problem: #
