@@ -13,7 +13,7 @@ When it comes to the solution, the site must include creating, editing and remov
 - Help the growth of tourism in Albania.
 
 # Development Model: #
-For the way of developing our model, we choose the Waterfall Model, since the approach we will have in the project will be done one step at a time. The customers needs are very clear so there won't be any changes in the future and the design can be made easily this way. We will work with the prototype step by step starting with the Front-end first, then the Back-end and then add the database.
+For the way of developing our model, we choose the Waterfall Model, since the approach we will have in the project will be done one step at a time. The customers needs are very clear so there won't be any changes in the future and the design can be made easily this way. We will work with the prototype step by step, by starting with the Front-end first, then the Back-end as well as add the database.
 
 # User Requirements: #
 Our Camping Site will include the following features to meet the users needs:
